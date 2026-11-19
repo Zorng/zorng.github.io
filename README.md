@@ -1,4 +1,4 @@
-# Lim Ieangzorng — Developer Portfolio
+# Lim Ieangzorng | Developer Portfolio
 
 A responsive, dependency-free portfolio built with HTML, CSS, and vanilla JavaScript. Includes native expandable project details, a conceptual Modula architecture diagram, academic results, contact links, and the supplied downloadable CV.
 
@@ -16,6 +16,7 @@ Push these files to the `zorng.github.io` repository. In **Settings → Pages**,
 - GitHub: https://github.com/Zorng
 - LinkedIn: https://www.linkedin.com/in/ieangzorng-lim/
 - Replace `Lim_Ieangzorng_CV.pdf` to update the CV, keeping its filename.
+- The hero portrait uses `assets/pf.jpg`; replace that file to update your photo.
 - Edit the palette and layout in `styles.css`.
 - The header’s Light mode toggle switches palettes and saves the preference locally; dark mode is the default. JavaScript also updates the footer year and current navigation section; content and project disclosures work without it.
 
